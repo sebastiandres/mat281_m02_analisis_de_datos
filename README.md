@@ -4,15 +4,17 @@
 </header>
 <br/><br/><br/><br/><br/>
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería - Modulo 1
+# MAT281 - Aplicaciones de la Matemática en la Ingeniería - Módulo 2
 
 * **Docentes**: Sebastián Flores & Alonso Ogueda
 
 * **Repositorio asignatura**: https://www.github.com/sebastiandres/mat281_2018S2
 
+* **Repositorio del módulo**: https://github.com/sebastiandres/mat281_m02_analisis_de_datos
+
 ## Descripción del Módulo
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Este módulo contiene diversos conocimientos prácticos para el análisis de datos.
 
 ## Contenido
 
@@ -34,7 +36,7 @@ Los notebooks de este módulo funcionan con las siguientes librerias detalladas 
 
 La instalación con conda requiere los siguientes pasos:
 ```bash
-conda env create -f mat281_modulo2.yml
+conda env create -f enviroment.yml
 ```
 
 Una vez finalizada la instalación, basta activar el enviroment mediante:
