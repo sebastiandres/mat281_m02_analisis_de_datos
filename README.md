@@ -16,7 +16,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Contenido
 
-* [01 - Análisis_inicial](./01_analisis_inicial/01_analisis_inicial.ipynb) Técnicas para hacer un análisis inicial de cualquier problema. Reglas de aproximación. 
+* [01 - Análisis_inicial](./01_analisis_preliminar/01_analisis_preliminar.ipynb) Técnicas para hacer un análisis inicial de cualquier problema. Reglas de aproximación. 
 
 * [02 - Laboratorio de formato de datos](./02_tipos_de_formato/02_tipos_de_formato.ipynb) 
 
